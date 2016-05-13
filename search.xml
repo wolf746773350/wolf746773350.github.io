@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[唐守光]]></title>
+      <url>http://yoursite.com/2016/05/13/hello-world/</url>
+      <content type="html"><![CDATA[<p><img src="/images/weixin.jpg" width="60" height="60"><br>工作岗位:Java开发工程师 男 25岁<br>Tel:<a href="tel://178-5379-5511" target="_blank" rel="external">178-5379-5511</a> &nbsp;QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=746773350&amp;site=qq&amp;menu=yes" target="_blank" rel="external">746773350</a> &nbsp;Email:<a href="mailto://746773350@qq.com" target="_blank" rel="external">746773350@qq.com</a></p>
+<h2 id="我的简历"><a href="#我的简历" class="headerlink" title="我的简历"></a>我的简历</h2><h3 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h3><p><span style="font-size:16px; color:#6C0">烟台博创融智软件科技有限公司</span>   &nbsp;&nbsp;&nbsp;<span style="font-size:16px; color:#6C0">2014.04至2016.05</span>  &nbsp;&nbsp;&nbsp; <span style="font-size:16px; color:#6C0">软件开发工程师</span><br><span style="font-size:14px">1.本人在职期间主要从事JAVAEE WEB开发，主要产品有大型厂家和代理商定制ERP管理软件、公司管理系统软件产品前后台开发。曾经参与过：斗山工程机械有中国限公司债权系统一二期、沃得工程机械有限公司销售系统、晋工服务系统、人合机电OA办公系统、公司自制开发产品等项目；</span><br><span style="font-size:14px">2.系统正常运营和系统业务数据处理；</span><br><span style="font-size:14px">3.功关系统应用技术难点；</span><br><span style="font-size:14px">4.带实习生学习公司开发框架；</span><br><span style="font-size:14px">5.在无人指导的情况下，独立搭建webService接口框架，为永宏微信保修系统和斗山厂商协同系统提供接口服务；</span></p>
+<h3 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><p>结束语: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
